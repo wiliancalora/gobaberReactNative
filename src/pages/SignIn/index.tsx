@@ -1,7 +1,7 @@
 import React from 'react';
-import {Image} from 'react-native';
+import { Image } from 'react-native';
 
-import {Container} from './styles';
+import { Container } from './styles';
 
 import logoImg from '../../assets/logo.png';
 
